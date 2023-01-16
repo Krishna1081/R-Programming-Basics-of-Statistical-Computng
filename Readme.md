@@ -1,4 +1,7 @@
-# R Programming- Basics of Statistical Computing
+ # R Programming- Basics of Statistical Computing
+
+*  Source: Taken from W3schools docs directly. This is just for my personal reference please use 
+the official docs link is here [www.W3schools.com](https://www.w3schools.com/)
 
 ## What is R?
 * R is a popular programming language used for statistical computing and graphical presentation.
